@@ -1,0 +1,13 @@
+name = "Havco Retfart S5"
+author = "minecraftbossdj"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "87a6687cc09c16cd4e9d9bf5bdbb972e40588848e852c6dbf06c098188f63828"
+
+[versions]
+forge = "47.3.33"
+minecraft = "1.20.1"
