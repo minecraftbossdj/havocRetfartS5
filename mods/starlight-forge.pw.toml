@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4631193
 project-id = 526854
+
+[option]
+optional = true
+default = false
+description = "A lighting engine rewrite for preformance"
