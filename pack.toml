@@ -1,12 +1,12 @@
-name = "Havco Retfart S5"
+name = "Havoc Retfart S5"
 author = "minecraftbossdj"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3ad4ef9d1d12bfa291d2156d7b7dcf344a803607b142f4740b7862bf92b8db3a"
+hash = "7bf7134b45f19c6290010de1371fd128e325787e9126948dc0ef8d13b794fff0"
 
 [versions]
 forge = "47.3.33"

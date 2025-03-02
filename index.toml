@@ -70,8 +70,23 @@ file = "mods/corpse-forge-1.20.1-1.0.20.jar"
 hash = "68d846adb9e7ea06b1823fd93810d464fddc42aa977511b6b9bbef913556178d"
 
 [[files]]
+file = "mods/create-copper-zinc.pw.toml"
+hash = "91ca4cc8ff88dfd2d50fb211be8b0cf7b0b123ff137fa3d10d98c299530be221"
+metafile = true
+
+[[files]]
+file = "mods/create-tfmg.pw.toml"
+hash = "2d519117992fc8bf34a5ac854bf68e7d8926b799ebe61e7f33cccd06a5b72201"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "596337372c4b77249e85e19ea3cb4ec818d88654e7ead63e0963ba5724e53da4"
+hash = "1f6fe88a1e44e31f32d5efb1f359d45b1961c0869b7329f32280177d363a014f"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "b4a51a4c2cc9a9e3b47a5cd4408df817f496c4c7c2c6890e12c5d54b2317e650"
 metafile = true
 
 [[files]]
@@ -145,6 +160,14 @@ hash = "f0985d39c6bb45984378049516de43f8faa6ee52ac74487d67442452cbf84d60"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge-2001.2.9.jar"
+hash = "b7d5d19889c485a9746022fdc42f3297aa4d26014559ea0ed35fa7ba816b001d"
+
+[[files]]
+file = "mods/ftb-ultimine-forge-2001.1.5.jar"
+hash = "cc6c93a44da1682671c6ca1f2fbc779f6a48963a4df3030350d1707dd91fb563"
+
+[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "3de7e29cd28529757e0a09db7466b7d50b791ba4235de2f125a86921a5c60ea7"
 metafile = true
@@ -200,6 +223,11 @@ hash = "502589e30f5f931419a81caddf421a9b64e482c54d3d1ab27ba0f830287a2d32"
 metafile = true
 
 [[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "0c2f445dc77db59e8c2bf464c8ffed8af248ece9edb540dba80d8b31a00a4c23"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "cd4fe8b667d14c946028050cf9e4c3367868f79d9f429ec18eb47cce34e021a3"
 metafile = true
@@ -245,6 +273,11 @@ hash = "2b0772879a1d43e6fc0d892dca4a85d360e813d5cd3907fc2ab42f345b146362"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "105a3cb78f853a00406250e8a5be2cc2a757cdee03b8d933529c96b3bd9be309"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
 metafile = true
@@ -257,6 +290,16 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "5d608562aae7967c72f0711fb3836ce341aed463491d987fcf9e6a15fdeda841"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-radio.pw.toml"
+hash = "d51dd03f1993f332ca1efd1618ba716d13d133cd256a6a1d7c8b4201b33e0b3c"
 metafile = true
 
 [[files]]
@@ -311,4 +354,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "68b0d7529611c6aeeb53495f4145fdc4ed5c03a672ca47caca7ff6f660e9b720"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb92831ae1333084aee2e0582ad76e074ee902f76939b2e2c4d288b831d27f1a"
 metafile = true
