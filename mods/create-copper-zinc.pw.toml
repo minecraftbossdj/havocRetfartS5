@@ -1,6 +1,6 @@
 name = "Create: Copper & Zinc [Forge/Fabric/NeoForge]"
 filename = "create_copper_and_zinc-1.6.0-forge-1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/aqYNR6rI/versions/ddI351pi/create_copper_and_zinc-1.6.0-forge-1.20.1.jar"

@@ -71,7 +71,7 @@ hash = "68d846adb9e7ea06b1823fd93810d464fddc42aa977511b6b9bbef913556178d"
 
 [[files]]
 file = "mods/create-copper-zinc.pw.toml"
-hash = "91ca4cc8ff88dfd2d50fb211be8b0cf7b0b123ff137fa3d10d98c299530be221"
+hash = "8ca56cfb2fd61f70ceee83647a58643b0f6504c0d4d96366c6380b651f0cd671"
 metafile = true
 
 [[files]]
