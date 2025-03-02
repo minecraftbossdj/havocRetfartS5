@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/AdvancedPeripherals-1.20.1-0.7.41r.jar"
-hash = "0c44d1b94df5a47d8f174c8627ec51b9e4c3449836891196683cbde4f481e02c"
-
-[[files]]
 file = "mods/abridged.pw.toml"
 hash = "41433dbbdd50aa1b1a28802eab388678cfe81ef0c4df3d091b4d9ba4c8c17552"
 metafile = true
@@ -43,10 +39,6 @@ metafile = true
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
-
-[[files]]
-file = "mods/cc-tweaked-1.20.1-forge-1.111.0.jar"
-hash = "b628bd9ea0c5fe9b39556fe3e7008c1580a43d8835c58a0cf9b61e007d940701"
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
@@ -233,17 +225,9 @@ hash = "74735952df4c37dbc3e36df80035a0a4ec4a4d56a5a622e7fa94626732fd789b"
 metafile = true
 
 [[files]]
-file = "mods/peripheralium-forge-1.20.1-0.6.15.jar"
-hash = "18889f1a2c49b9d5f947b23b310643a9836151eddeb60f0feec957a7b904dc93"
-
-[[files]]
 file = "mods/peripheralium.pw.toml"
 hash = "fac1fc963952e2ca10e21289d27cc3a2629cb0f2f33b8ec33f2d37cf9335fd08"
 metafile = true
-
-[[files]]
-file = "mods/peripheralworks-forge-1.20.1-1.4.3.jar"
-hash = "551950d4cc3a41117bb7d0fc2aabc1939c3860ed8e8f4e5a38a38b21742d38a9"
 
 [[files]]
 file = "mods/presence-footsteps-forge.pw.toml"
