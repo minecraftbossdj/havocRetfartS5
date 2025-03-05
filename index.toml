@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -70,8 +70,28 @@ file = "mods/corpse-forge-1.20.1-1.0.20.jar"
 hash = "68d846adb9e7ea06b1823fd93810d464fddc42aa977511b6b9bbef913556178d"
 
 [[files]]
+file = "mods/create-blazing-hot.pw.toml"
+hash = "01d5a51bc5dbcf8005158299521b75ae11f081b7960750b387d298a6b17dc3b7"
+metafile = true
+
+[[files]]
 file = "mods/create-copper-zinc.pw.toml"
 hash = "8ca56cfb2fd61f70ceee83647a58643b0f6504c0d4d96366c6380b651f0cd671"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "1ec110bfa32f314b86c2cbf15612e8fe2caf2a7aca30c0c216ea1b2c38b64d0b"
+metafile = true
+
+[[files]]
+file = "mods/create-extra-casing.pw.toml"
+hash = "1a28a2a9b4a60dc8bd9879b5fe74556a66b06d791755455662b114f62b3edc77"
+metafile = true
+
+[[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "2e04ee3a10d5b87a4cae4ff948fa32038ef2a6db48ff2f340b49c57de296fd6b"
 metafile = true
 
 [[files]]
@@ -260,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/peripheralium.pw.toml"
 hash = "fac1fc963952e2ca10e21289d27cc3a2629cb0f2f33b8ec33f2d37cf9335fd08"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "6f13cf7ee6ed32570b37f8c08bcdbc07ac31ea959d58c9f4fd618bffe56b3c9e"
 metafile = true
 
 [[files]]

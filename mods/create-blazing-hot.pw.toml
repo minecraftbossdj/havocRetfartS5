@@ -1,0 +1,13 @@
+name = "Create: Blazing Hot"
+filename = "create_blazing_hot-0.6.5+forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LmT6oZrX/versions/pm2yTqsa/create_blazing_hot-0.6.5%2Bforge-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "4a8e8f575271c047427ed06536518e80277bdb3355dedb8bdb4229cd9e0da5d772ebcb1529e2a7441e847e42db873b8476ea2e694bfea1667ea39606d0170db3"
+
+[update]
+[update.modrinth]
+mod-id = "LmT6oZrX"
+version = "pm2yTqsa"
