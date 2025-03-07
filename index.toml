@@ -70,6 +70,11 @@ file = "mods/corpse-forge-1.20.1-1.0.20.jar"
 hash = "68d846adb9e7ea06b1823fd93810d464fddc42aa977511b6b9bbef913556178d"
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/create-blazing-hot.pw.toml"
 hash = "01d5a51bc5dbcf8005158299521b75ae11f081b7960750b387d298a6b17dc3b7"
 metafile = true
@@ -77,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/create-copper-zinc.pw.toml"
 hash = "8ca56cfb2fd61f70ceee83647a58643b0f6504c0d4d96366c6380b651f0cd671"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "f76ad56aa1ed3224d0d041c87e99d614782020d664d11f218ce38032f9d50ad9"
 metafile = true
 
 [[files]]
@@ -330,6 +340,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-radio.pw.toml"
 hash = "d51dd03f1993f332ca1efd1618ba716d13d133cd256a6a1d7c8b4201b33e0b3c"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "051a8937ed53267faa86fb53695f6e84a4fdf66d905cb9f3873e5498a6e66ab5"
 metafile = true
 
 [[files]]
