@@ -3,8 +3,8 @@ filename = "exposure-1.20.1-1.7.9-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "64e1d9ebf980c96ad642c8e1e6bf72f8d843d5a8"
+hash-format = "sha256"
+hash = "1119065956bd6c07725ba0b7966d77d7019a95c4f45c9188bb093fc0c86481b8"
 mode = "metadata:curseforge"
 
 [update]

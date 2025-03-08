@@ -3,8 +3,8 @@ filename = "chat_heads-0.13.13-forge-1.20.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "08be219d79d6b42551bc6ade3dd4e9297c46c3d1"
+hash-format = "sha256"
+hash = "ff9b36251ef6353d8c96fd4b24f347af658087346752c5f1a306abc4cbe41474"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,5 @@ project-id = 407206
 
 [option]
 optional = true
-default = true
 description = "Shows the player head in chat"
+default = true

@@ -3,8 +3,8 @@ filename = "emi-letsdo-compat-1.5.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "19197cd2369a4feeccce9d2b546880bf38a7f9e7"
+hash-format = "sha256"
+hash = "3123b0ae33ac9fefed3775209d43446d3436224b7009e8e07903eaeafefd5154"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,5 @@ project-id = 1063821
 
 [option]
 optional = true
-default = true
 description = "a EMI compat mod for the Lets Do mods"
+default = true

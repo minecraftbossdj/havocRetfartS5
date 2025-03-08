@@ -3,8 +3,8 @@ filename = "Xaeros_Minimap_25.1.0_Forge_1.20.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "17baacd5fd6b343c7f0828b33209968aebf1f4ab"
+hash-format = "sha256"
+hash = "823681e3dfa5a68c2e5b3fe5396d81d7dcf692fbe34036ef9247c97311060be6"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,5 @@ project-id = 263420
 
 [option]
 optional = true
-default = true
 description = "Xaero's take on a minimap"
+default = true
