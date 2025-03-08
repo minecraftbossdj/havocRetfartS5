@@ -382,10 +382,6 @@ hash = "9abb2650b42e703187333df0d5c44ee9644c723ba02858c922acce63b98e9727"
 metafile = true
 
 [[files]]
-file = "mods/workers-1.20.1-1.7.8.jar"
-hash = "5050a1fcfc17691a95245f35d39a2fad0c113371a833b92128f995b0b84ea12e"
-
-[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "5b9f2e8a7dbb0bdb7d2744698c6f1483460ae729893e1aaa4ae89a6e230f76fd"
 metafile = true
