@@ -3,8 +3,8 @@ filename = "FramedBlocks-9.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "4600160afd9f8b3f4123beb866fb3610d295b6d6c7ff562349953288d66d4c1ac2be5be4cf7246fb18d5fb0ddd7df6c43b8ab1820b47bb0bdebbdc98452c0391"
+hash-format = "sha256"
+hash = "5b394dc0c467eb7ec2a36886b3ba469d25199a4d1c87d391c5c467f72edbe413"
 mode = "metadata:curseforge"
 
 [update]

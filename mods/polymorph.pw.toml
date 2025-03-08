@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/f95jImsh/polymorph-forge-0.49.8%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "97e88f8ce0de13f8d9b87d1acb57e54a96d68313b657f547645d43153b6dd50c0daf9678fd3947b39ce8b5ec2091619c16a477d1a7a67b9a6d03eef4bf80bcfb"
+hash-format = "sha256"
+hash = "c5384788f354effb9866a9a084c521bb3e05d246690765e1130a2778efd49ba4"
 
 [update]
 [update.modrinth]

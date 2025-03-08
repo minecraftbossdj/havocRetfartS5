@@ -3,8 +3,8 @@ filename = "sophisticatedcore-1.20.1-1.2.20.894.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "f8593b924cc4a5ff2af63fa5b67608cfdfd711369508417095504779a4174784e6a02900a819bf5eae12d5c1bee266a61240ee31c73d050d890c90f27a820130"
+hash-format = "sha256"
+hash = "821829ee7db35849efd90cae48572a8aa904ea59bee8884f2c0a6e39899fb8c5"
 mode = "metadata:curseforge"
 
 [update]

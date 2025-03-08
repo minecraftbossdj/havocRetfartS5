@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/SOuuRR07/Jade-1.20.1-Forge-11.12.3.jar"
-hash-format = "sha512"
-hash = "7871ec035b146c852dcc1eb0b9c2bdeee192777ecde78b4d3a06a0111f94194bc12eabdb5b15804f61b365fa43bcad0b58bde80d01a5cc3a996fa4039339a3d2"
+hash-format = "sha256"
+hash = "c8fc883acd8a7b1a10cad75dd06529d2bedec8c4efe1e64ce279126120c792cc"
 
 [update]
 [update.modrinth]
