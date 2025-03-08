@@ -5,10 +5,6 @@ file = "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
 hash = "dedd857b1ee356f002471ec97a2174c7d193d6d1aede60782d0bbe2c241b2a7f"
 
 [[files]]
-file = "mods/SereneSeasons-forge-1.20.1-9.1.0.1.jar"
-hash = "ad67681111601d08ba50c159417b95d05a740a8b1f4f28e97435c25ac382fb66"
-
-[[files]]
 file = "mods/abridged.pw.toml"
 hash = "41433dbbdd50aa1b1a28802eab388678cfe81ef0c4df3d091b4d9ba4c8c17552"
 metafile = true
