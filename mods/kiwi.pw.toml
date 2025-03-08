@@ -3,8 +3,8 @@ filename = "Kiwi-1.20.1-Forge-11.8.30.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0469d08eb4195c6b4f5563c02af6cb8d7cda5758"
+hash-format = "sha256"
+hash = "38d4c3b20de3097625ee7cbaf26fe0013a07a36f527cb61fb4bffac2c21afd49"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "mexicans_delight-1.1.1-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d6fb80e8bcf5c874620c6eccedf6faf65f7f3044"
+hash-format = "sha256"
+hash = "222cc541e5c89d394ffb195915f5ca4e27f42a19103c075ccfe41868ca57c427"
 mode = "metadata:curseforge"
 
 [update]

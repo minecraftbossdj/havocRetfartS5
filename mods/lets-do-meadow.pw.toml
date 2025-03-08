@@ -3,8 +3,8 @@ filename = "letsdo-meadow-forge-1.3.23.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4e8e5bcecbf79f6fdd766fa7b3bc5e1232bcb398"
+hash-format = "sha256"
+hash = "111b788f5396e58c0abc4cbad9322c5b1004278e0a2a0e1f21230235788d9e9f"
 mode = "metadata:curseforge"
 
 [update]
