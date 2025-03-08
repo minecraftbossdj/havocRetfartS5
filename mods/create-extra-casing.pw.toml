@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yEGVcr59/versions/DM8t3Ly5/create_extra_casing-4.0.0-Forge-1.20.1.jar"
-hash-format = "sha256"
-hash = "f63049af1ac3f9b913d2e5ef22e8e28d0edc4b06e875435f1c45619d53b1e12a"
+hash-format = "sha512"
+hash = "ba56f8f064d9d411b5aca6b9498c82e1b1d85730137ec2ee839e1ccba75c33f4025bce3665c5a77180e786f626ede46c387991d9abe29c3d0515b7e92d395e9f"
 
 [update]
 [update.modrinth]

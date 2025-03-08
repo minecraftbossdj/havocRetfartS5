@@ -3,8 +3,8 @@ filename = "abridged-forge-1.20.x-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "47d071412a930bf44bbe0305e10225f772b09cd3a2584c691099c959b449643c"
+hash-format = "sha512"
+hash = "02113360b961381148947e4096e130383fbe83271d57d08beada18325e6a33633077a35a69307c8406c3153ac0823c2c63e41fe341db05dbc84e027a228dc5b5"
 mode = "metadata:curseforge"
 
 [update]

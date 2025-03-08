@@ -3,8 +3,8 @@ filename = "letsdo-vinery-forge-1.4.38.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "f1f8c014c936a74ab9a8aa60264a8d8cb250cbe25d2578179726df60d729342a"
+hash-format = "sha512"
+hash = "5d541cb19f6f95e85f4eea514b980191fbc4716aeefadce1807000f8c293f13a6a4ce61286a5d91b8244afbedd192e2de7bf0579bbb7306beb6b00b9c4b374af"
 mode = "metadata:curseforge"
 
 [update]

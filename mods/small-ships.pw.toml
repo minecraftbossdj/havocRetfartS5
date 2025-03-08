@@ -3,8 +3,8 @@ filename = "smallships-forge-1.20.1-2.0.0-b1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "f79a4dcab3e1c8e4d14467cbfa655f4a16e0f0d0901e8f9bde9e3f5e36735eff"
+hash-format = "sha512"
+hash = "96eb4b05e2ca71e6f608811da0e1687a9744421b84e7c876e9a36cd2cdc30bf3c7174525c0915f87be30bd840d39f7b7aa8e0dde19747a495ff5c1a57b701dac"
 mode = "metadata:curseforge"
 
 [update]

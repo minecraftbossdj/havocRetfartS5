@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/S7b8mMXS/versions/WQ689CyS/SimpleRadio-forge-1.20.1-2.4.6.1.jar"
-hash-format = "sha256"
-hash = "f711941e6440000e7e0ab4dd10c1d29ab80e022a660dbe35788ef87d99c6a827"
+hash-format = "sha512"
+hash = "bcc6cac4ade382c1205ae8e1e3747a639608ef5d8b26473eaf4a5ccac745edbce1d316ae106a1381d8cef1f67c8dc8b7ce4a5529a8501c6486e2870c775688d6"
 
 [update]
 [update.modrinth]
