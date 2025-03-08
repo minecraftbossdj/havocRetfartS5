@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
-hash = "dedd857b1ee356f002471ec97a2174c7d193d6d1aede60782d0bbe2c241b2a7f"
-
-[[files]]
-file = "mods/SereneSeasons-forge-1.20.1-9.1.0.1.jar"
-hash = "ad67681111601d08ba50c159417b95d05a740a8b1f4f28e97435c25ac382fb66"
-
-[[files]]
 file = "mods/abridged.pw.toml"
 hash = "41433dbbdd50aa1b1a28802eab388678cfe81ef0c4df3d091b4d9ba4c8c17552"
 metafile = true
@@ -206,6 +198,11 @@ hash = "3de7e29cd28529757e0a09db7466b7d50b791ba4235de2f125a86921a5c60ea7"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "c46659c3e873e0ca121f5215991ae8bc989132a3fea0c2da9eed0f22a947b2b9"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "3dd09349cac3a36d6402dcf3633bc0a7f439a269d0c7fc88b87cd3114ba7817b"
 metafile = true
@@ -336,6 +333,11 @@ hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "a2154184549fb259121b58bdd26d4cbee3a3a8c6be542f544f5cb059812e2d1b"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "5d608562aae7967c72f0711fb3836ce341aed463491d987fcf9e6a15fdeda841"
 metafile = true
@@ -390,8 +392,9 @@ hash = "9abb2650b42e703187333df0d5c44ee9644c723ba02858c922acce63b98e9727"
 metafile = true
 
 [[files]]
-file = "mods/workers-1.20.1-1.7.8.jar"
-hash = "5050a1fcfc17691a95245f35d39a2fad0c113371a833b92128f995b0b84ea12e"
+file = "mods/workers.pw.toml"
+hash = "733327ca59bced1729be3c2da850232f361192fb8b326c43a9f9df14e818e590"
+metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
