@@ -3,8 +3,8 @@ filename = "delightfulsandwich-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "b5d2d0a66c9fde9545b1582c7db4d78b6fbf1cb34aab5705b251318aad2ad251"
+hash-format = "sha1"
+hash = "ebd56e042a32bf9adaa696b2f548b0171d8672ff"
 mode = "metadata:curseforge"
 
 [update]

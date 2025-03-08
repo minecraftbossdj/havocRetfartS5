@@ -3,8 +3,8 @@ filename = "emi-1.1.20+1.20.1+forge.jar"
 side = "client"
 
 [download]
-hash-format = "sha256"
-hash = "2a86fd87dae8545e9706c0d9d29d37be9faac8cfe07be58edb497fbdddb4e8db"
+hash-format = "sha1"
+hash = "f6ee97d1f49e106b2dc887df3c238bb06b84bada"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,5 @@ project-id = 580555
 
 [option]
 optional = true
-description = "Another form of recipe viewer, probably the most customizable one out!"
 default = true
+description = "Another form of recipe viewer, probably the most customizable one out!"

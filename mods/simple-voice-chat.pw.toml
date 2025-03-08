@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/ea3IQYzh/voicechat-forge-1.20.1-2.5.28.jar"
-hash-format = "sha256"
-hash = "28a5b2f630708372ad7d18e6243a0a241507b2c5e6f07c536bd2c78890820fc0"
+hash-format = "sha512"
+hash = "c1cc1596bab91346ddd26f4f3faab0dc88d5fcae7bd492387ede2466c700fe832ce645824437999984436d8c1b91087586f1ac3f90c4cddaab4d94dd33018a47"
 
 [update]
 [update.modrinth]

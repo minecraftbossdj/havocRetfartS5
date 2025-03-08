@@ -3,8 +3,8 @@ filename = "LegendaryTooltips-1.20.1-forge-1.4.5.jar"
 side = "client"
 
 [download]
-hash-format = "sha256"
-hash = "15521ab414b92f60e75bdd49724eb65bb6aa8b3d6f72c157cc261011d58d625e"
+hash-format = "sha1"
+hash = "7d83a56572d333ea352706872f565b8b8537085c"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,5 @@ project-id = 532127
 
 [option]
 optional = true
-description = "a mod all about making item tooltips MUCH better"
 default = true
+description = "a mod all about making item tooltips MUCH better"

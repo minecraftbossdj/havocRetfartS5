@@ -3,8 +3,8 @@ filename = "open-parties-and-claims-forge-1.20.1-0.24.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "ebb6d0fae2c228cd16400409e91098f0bf4aa6321c496caa695ee05c1471ea70"
+hash-format = "sha1"
+hash = "884924b3820d51f0d6ae0f0b5b8bc35aefaf1920"
 mode = "metadata:curseforge"
 
 [update]
